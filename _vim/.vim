@@ -1,1 +1,1 @@
-/home/sontek/code/dotfiles/_vim
+/home/dnaab/src/dotfiles/_vim
